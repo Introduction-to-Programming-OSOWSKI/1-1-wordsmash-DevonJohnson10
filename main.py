@@ -1,4 +1,4 @@
-def wordsmash(a, b):
+def wordSmash(a, b):
     print(a + b)
 
-wordsmash("goofy","goober")
+wordSmash("goofy","goober")
